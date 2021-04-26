@@ -188,7 +188,7 @@ export default function Create() {
 								required
 								fullWidth
 								id="title"
-								label="Post Title"
+								label="Titlul"
 								name="title"
 								autoComplete="title"
 								onChange={handleChange}
